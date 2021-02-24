@@ -1,0 +1,2 @@
+# talkmentative
+Augmentative translator bot
